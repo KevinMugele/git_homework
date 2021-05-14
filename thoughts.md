@@ -19,6 +19,4 @@ One shoutout from the last two weeks:
 
 Some additions during Session 3:
 
-  -Everyone is really nice.
-
   -I made and linked my first repository.
